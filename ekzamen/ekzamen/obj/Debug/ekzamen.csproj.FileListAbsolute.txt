@@ -1,0 +1,7 @@
+C:\Users\Driver\Desktop\экзамен\ekzamen\ekzamen\bin\Debug\ekzamen.exe.config
+C:\Users\Driver\Desktop\экзамен\ekzamen\ekzamen\bin\Debug\ekzamen.exe
+C:\Users\Driver\Desktop\экзамен\ekzamen\ekzamen\bin\Debug\ekzamen.pdb
+C:\Users\Driver\Desktop\экзамен\ekzamen\ekzamen\obj\Debug\ekzamen.csprojAssemblyReference.cache
+C:\Users\Driver\Desktop\экзамен\ekzamen\ekzamen\obj\Debug\ekzamen.csproj.CoreCompileInputs.cache
+C:\Users\Driver\Desktop\экзамен\ekzamen\ekzamen\obj\Debug\ekzamen.exe
+C:\Users\Driver\Desktop\экзамен\ekzamen\ekzamen\obj\Debug\ekzamen.pdb
